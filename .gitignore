@@ -1,0 +1,8 @@
+lua/
+plugs/*
+undo/*
+Pipfile.lock
+init.vim.bak
+.venv/
+.netrwhist
+.nvimlog
