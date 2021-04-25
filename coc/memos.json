@@ -1,0 +1,3797 @@
+{
+  "coc-python|/home/chrisg/Documents/projects/PassKeep-password-manager": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:1306ea13e4f2f481301bf07b930f7d88": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:1306ea13e4f2f481301bf07b930f7d88": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "SelectedPythonPath": "/home/chrisg/.pyenv/versions/system-3.8.6/bin/python"
+  },
+  "coc-python|global": {
+    "/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "59227c2c17ac0202f16b59480e4baac087a30a68e3ec36e76ce7bbc0a12c670a3ec3c7b0b47a85ace518cce30d28299c6d20efd4d340b181b9bbd07932ae45d7"
+      },
+      "expiry": 1618989877921
+    },
+    "/usr/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "5bd1310ae8544a3bfaeb628350b0182744810bfc3b2cac0c939fdf85b80b100a64bd3993e830e8a69db070f68b773eda5ade641be07b4effc82ee24aeac42018"
+      },
+      "expiry": 1618989877928
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "59227c2c17ac0202f16b59480e4baac087a30a68e3ec36e76ce7bbc0a12c670a3ec3c7b0b47a85ace518cce30d28299c6d20efd4d340b181b9bbd07932ae45d7"
+      },
+      "expiry": 1618989877933
+    },
+    "/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "5bd1310ae8544a3bfaeb628350b0182744810bfc3b2cac0c939fdf85b80b100a64bd3993e830e8a69db070f68b773eda5ade641be07b4effc82ee24aeac42018"
+      },
+      "expiry": 1618989877918
+    },
+    "/home/chrisg/.pyenv/shims/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/system-3.8.6",
+        "fileHash": "40b50035dc2eb28d2b67e2ce8e02d9f21f35f73c3e453786edf80f7e2f12110f9aa440cebcaecaa3f6daed4eec77eadb7d357b6b0d7cf3cfc70e8d73264a20a8"
+      },
+      "expiry": 1619048744878
+    },
+    "/home/chrisg/.pyenv/shims/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "40b50035dc2eb28d2b67e2ce8e02d9f21f35f73c3e453786edf80f7e2f12110f9aa440cebcaecaa3f6daed4eec77eadb7d357b6b0d7cf3cfc70e8d73264a20a8"
+      },
+      "expiry": 1618989877951
+    },
+    "/home/chrisg/.pyenv/versions/system-3.8.6/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/versions/system-3.8.6/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/system-3.8.6",
+        "fileHash": "7f8d9bf1d13ed7230bc9f9a1d274d324759545b375ccc4c1966387bf6738b1f4012c2a382ca7f0499a868696b812f6360f316b6707bfcac2adcfdb3d935a6e56"
+      },
+      "expiry": 1618989878030
+    },
+    "/home/chrisg/.pyenv/versions/system-3.8.6/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/versions/system-3.8.6/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/system-3.8.6",
+        "fileHash": "7f8d9bf1d13ed7230bc9f9a1d274d324759545b375ccc4c1966387bf6738b1f4012c2a382ca7f0499a868696b812f6360f316b6707bfcac2adcfdb3d935a6e56"
+      },
+      "expiry": 1618989878038
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv",
+        "fileHash": "1026323541c9b4eebcafefaefe70cdda15b889115f5d04fbe1f7b5cab5353000e8d877d08d3c4a9bd821cb98f6ecafb426ea38c399ca191bb9ab4d1ead2624e7",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv",
+        "fileHash": "1026323541c9b4eebcafefaefe70cdda15b889115f5d04fbe1f7b5cab5353000e8d877d08d3c4a9bd821cb98f6ecafb426ea38c399ca191bb9ab4d1ead2624e7",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv",
+        "fileHash": "1026323541c9b4eebcafefaefe70cdda15b889115f5d04fbe1f7b5cab5353000e8d877d08d3c4a9bd821cb98f6ecafb426ea38c399ca191bb9ab4d1ead2624e7",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "2100a8ebfc8faba465789a105ac823f3be728275edd097e3c93601b9085f7896799b6b480d29d28194345dea9af205134258fdfe193e9b44aef569b1730fc240",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "40b50035dc2eb28d2b67e2ce8e02d9f21f35f73c3e453786edf80f7e2f12110f9aa440cebcaecaa3f6daed4eec77eadb7d357b6b0d7cf3cfc70e8d73264a20a8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/system-3.8.6",
+        "fileHash": "40b50035dc2eb28d2b67e2ce8e02d9f21f35f73c3e453786edf80f7e2f12110f9aa440cebcaecaa3f6daed4eec77eadb7d357b6b0d7cf3cfc70e8d73264a20a8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "d377d943ff11c6a883c17d6b6501b4144e02a62f3f93ed6b64fc7851e57d5da45bbc50e13504e8c0514366b7703aece58e7c251661ba7e924ce976511f5bbba8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "2100a8ebfc8faba465789a105ac823f3be728275edd097e3c93601b9085f7896799b6b480d29d28194345dea9af205134258fdfe193e9b44aef569b1730fc240",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "40b50035dc2eb28d2b67e2ce8e02d9f21f35f73c3e453786edf80f7e2f12110f9aa440cebcaecaa3f6daed4eec77eadb7d357b6b0d7cf3cfc70e8d73264a20a8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/system-3.8.6",
+        "fileHash": "40b50035dc2eb28d2b67e2ce8e02d9f21f35f73c3e453786edf80f7e2f12110f9aa440cebcaecaa3f6daed4eec77eadb7d357b6b0d7cf3cfc70e8d73264a20a8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "d377d943ff11c6a883c17d6b6501b4144e02a62f3f93ed6b64fc7851e57d5da45bbc50e13504e8c0514366b7703aece58e7c251661ba7e924ce976511f5bbba8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "2100a8ebfc8faba465789a105ac823f3be728275edd097e3c93601b9085f7896799b6b480d29d28194345dea9af205134258fdfe193e9b44aef569b1730fc240",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "40b50035dc2eb28d2b67e2ce8e02d9f21f35f73c3e453786edf80f7e2f12110f9aa440cebcaecaa3f6daed4eec77eadb7d357b6b0d7cf3cfc70e8d73264a20a8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/system-3.8.6",
+        "fileHash": "40b50035dc2eb28d2b67e2ce8e02d9f21f35f73c3e453786edf80f7e2f12110f9aa440cebcaecaa3f6daed4eec77eadb7d357b6b0d7cf3cfc70e8d73264a20a8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "d377d943ff11c6a883c17d6b6501b4144e02a62f3f93ed6b64fc7851e57d5da45bbc50e13504e8c0514366b7703aece58e7c251661ba7e924ce976511f5bbba8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "2100a8ebfc8faba465789a105ac823f3be728275edd097e3c93601b9085f7896799b6b480d29d28194345dea9af205134258fdfe193e9b44aef569b1730fc240",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "40b50035dc2eb28d2b67e2ce8e02d9f21f35f73c3e453786edf80f7e2f12110f9aa440cebcaecaa3f6daed4eec77eadb7d357b6b0d7cf3cfc70e8d73264a20a8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/system-3.8.6",
+        "fileHash": "40b50035dc2eb28d2b67e2ce8e02d9f21f35f73c3e453786edf80f7e2f12110f9aa440cebcaecaa3f6daed4eec77eadb7d357b6b0d7cf3cfc70e8d73264a20a8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "d377d943ff11c6a883c17d6b6501b4144e02a62f3f93ed6b64fc7851e57d5da45bbc50e13504e8c0514366b7703aece58e7c251661ba7e924ce976511f5bbba8",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "453028306fc83040c3c9a021ae5b2219015da402e829dc22e3b9bd777a9b5e9912d749f30c9065b5d12e3abe18d9e9448a7c5d9a583566ca24178126eaee8627",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "3c2982038cf0bc6f9cc531674537fa0cc0b3984c8b1878a5356f5c627ac2d6dcb9f28aaa1572e7d70dab4e75645dd7883ab6f85aca5f74e2d67848de2978748c",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "59227c2c17ac0202f16b59480e4baac087a30a68e3ec36e76ce7bbc0a12c670a3ec3c7b0b47a85ace518cce30d28299c6d20efd4d340b181b9bbd07932ae45d7",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "5bd1310ae8544a3bfaeb628350b0182744810bfc3b2cac0c939fdf85b80b100a64bd3993e830e8a69db070f68b773eda5ade641be07b4effc82ee24aeac42018",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "453028306fc83040c3c9a021ae5b2219015da402e829dc22e3b9bd777a9b5e9912d749f30c9065b5d12e3abe18d9e9448a7c5d9a583566ca24178126eaee8627",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "3c2982038cf0bc6f9cc531674537fa0cc0b3984c8b1878a5356f5c627ac2d6dcb9f28aaa1572e7d70dab4e75645dd7883ab6f85aca5f74e2d67848de2978748c",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "59227c2c17ac0202f16b59480e4baac087a30a68e3ec36e76ce7bbc0a12c670a3ec3c7b0b47a85ace518cce30d28299c6d20efd4d340b181b9bbd07932ae45d7",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "5bd1310ae8544a3bfaeb628350b0182744810bfc3b2cac0c939fdf85b80b100a64bd3993e830e8a69db070f68b773eda5ade641be07b4effc82ee24aeac42018",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "453028306fc83040c3c9a021ae5b2219015da402e829dc22e3b9bd777a9b5e9912d749f30c9065b5d12e3abe18d9e9448a7c5d9a583566ca24178126eaee8627",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "3c2982038cf0bc6f9cc531674537fa0cc0b3984c8b1878a5356f5c627ac2d6dcb9f28aaa1572e7d70dab4e75645dd7883ab6f85aca5f74e2d67848de2978748c",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "59227c2c17ac0202f16b59480e4baac087a30a68e3ec36e76ce7bbc0a12c670a3ec3c7b0b47a85ace518cce30d28299c6d20efd4d340b181b9bbd07932ae45d7",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "5bd1310ae8544a3bfaeb628350b0182744810bfc3b2cac0c939fdf85b80b100a64bd3993e830e8a69db070f68b773eda5ade641be07b4effc82ee24aeac42018",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "453028306fc83040c3c9a021ae5b2219015da402e829dc22e3b9bd777a9b5e9912d749f30c9065b5d12e3abe18d9e9448a7c5d9a583566ca24178126eaee8627",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "3c2982038cf0bc6f9cc531674537fa0cc0b3984c8b1878a5356f5c627ac2d6dcb9f28aaa1572e7d70dab4e75645dd7883ab6f85aca5f74e2d67848de2978748c",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "59227c2c17ac0202f16b59480e4baac087a30a68e3ec36e76ce7bbc0a12c670a3ec3c7b0b47a85ace518cce30d28299c6d20efd4d340b181b9bbd07932ae45d7",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "5bd1310ae8544a3bfaeb628350b0182744810bfc3b2cac0c939fdf85b80b100a64bd3993e830e8a69db070f68b773eda5ade641be07b4effc82ee24aeac42018",
+        "type": "Unknown"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv",
+        "fileHash": "1026323541c9b4eebcafefaefe70cdda15b889115f5d04fbe1f7b5cab5353000e8d877d08d3c4a9bd821cb98f6ecafb426ea38c399ca191bb9ab4d1ead2624e7",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "453028306fc83040c3c9a021ae5b2219015da402e829dc22e3b9bd777a9b5e9912d749f30c9065b5d12e3abe18d9e9448a7c5d9a583566ca24178126eaee8627",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv",
+        "fileHash": "1026323541c9b4eebcafefaefe70cdda15b889115f5d04fbe1f7b5cab5353000e8d877d08d3c4a9bd821cb98f6ecafb426ea38c399ca191bb9ab4d1ead2624e7",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv",
+        "fileHash": "1026323541c9b4eebcafefaefe70cdda15b889115f5d04fbe1f7b5cab5353000e8d877d08d3c4a9bd821cb98f6ecafb426ea38c399ca191bb9ab4d1ead2624e7",
+        "type": "Unknown"
+      }
+    ],
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv",
+      "fileHash": "1026323541c9b4eebcafefaefe70cdda15b889115f5d04fbe1f7b5cab5353000e8d877d08d3c4a9bd821cb98f6ecafb426ea38c399ca191bb9ab4d1ead2624e7",
+      "type": "Unknown"
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/home/chrisg/.pyenv/versions/3.10-dev/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.0-alpha",
+        "major": 3,
+        "minor": 10,
+        "patch": 0,
+        "prerelease": [
+          "alpha"
+        ],
+        "build": [],
+        "version": "3.10.0-alpha"
+      },
+      "sysPrefix": "/home/chrisg/.pyenv/versions/3.10-dev",
+      "fileHash": "66e43163213f94398496236545c16879e93eb3d54871941e0932fa87855535f668e651a498011a0ab099496be28de6c44d66c9d7de69fece5d5f6f33172b178d",
+      "envName": "3.10-dev",
+      "type": "Pyenv",
+      "displayName": "Python 3.10.0 64-bit ('3.10-dev': pyenv)"
+    },
+    "/home/chrisg/.pyenv/versions/system-3.8.6/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/versions/system-3.8.6/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/system-3.8.6",
+        "fileHash": "7f8d9bf1d13ed7230bc9f9a1d274d324759545b375ccc4c1966387bf6738b1f4012c2a382ca7f0499a868696b812f6360f316b6707bfcac2adcfdb3d935a6e56"
+      },
+      "expiry": 1618989878026
+    },
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/versions/3.10-dev/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-alpha",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "alpha"
+          ],
+          "build": [],
+          "version": "3.10.0-alpha"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.10-dev",
+        "fileHash": "66e43163213f94398496236545c16879e93eb3d54871941e0932fa87855535f668e651a498011a0ab099496be28de6c44d66c9d7de69fece5d5f6f33172b178d",
+        "envName": "3.10-dev",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/versions/3.10-dev/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-alpha",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "alpha"
+          ],
+          "build": [],
+          "version": "3.10.0-alpha"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.10-dev",
+        "fileHash": "423635a4285793f987c9901c199276026c3b0b4831ddcad057fef997105a392f248aa61d9f0897770fe50134b4190b8e31aa7883976482863f11a5bd280e0389",
+        "envName": "3.10-dev",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/versions/3.10-dev/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-alpha",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "alpha"
+          ],
+          "build": [],
+          "version": "3.10.0-alpha"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.10-dev",
+        "fileHash": "63427822b0d37b15afcf6a4539857288571d05835cc09fbcf7c05d81ab4438103905c4cc6a1894434472059722068f04b97acf792e505db9d192ee57442da21c",
+        "envName": "3.10-dev",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/versions/3.9.1/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "52a4317840d0b3e9ab1bdc572e352613f4a32bae60cdf19619577c6e05bd6a3502f88752af89c9e14844cda70649bada093de218408df5bc26962d5e102d5fcf",
+        "envName": "3.9.1",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/versions/3.9.1/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "e9416e8d4f54d04ba98f149c137a129a077393677f203fe6bb235cf4368b31eee8f7fa7051020d69a5a839103203bdbe2d88323bd40aa2012c07f1ad1b58191c",
+        "envName": "3.9.1",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/versions/3.9.1/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "1fd1b3673ad2b5d1f7ad8855efedd8d71b68afef47ffe3ed726b208f962fd22adcd8085244c2e19919ee0a3f0dc850608230484ae8b3fb1b1332aed3bae0f276",
+        "envName": "3.9.1",
+        "type": "Pyenv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/versions/system-3.8.6/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/system-3.8.6",
+        "fileHash": "7f8d9bf1d13ed7230bc9f9a1d274d324759545b375ccc4c1966387bf6738b1f4012c2a382ca7f0499a868696b812f6360f316b6707bfcac2adcfdb3d935a6e56",
+        "envName": "system-3.8.6",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/versions/system-3.8.6/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/system-3.8.6",
+        "fileHash": "7f8d9bf1d13ed7230bc9f9a1d274d324759545b375ccc4c1966387bf6738b1f4012c2a382ca7f0499a868696b812f6360f316b6707bfcac2adcfdb3d935a6e56",
+        "envName": "system-3.8.6",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/versions/system-3.8.6/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/system-3.8.6",
+        "fileHash": "7f8d9bf1d13ed7230bc9f9a1d274d324759545b375ccc4c1966387bf6738b1f4012c2a382ca7f0499a868696b812f6360f316b6707bfcac2adcfdb3d935a6e56",
+        "envName": "system-3.8.6",
+        "type": "Venv"
+      }
+    ],
+    "/home/chrisg/anaconda3/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/home/chrisg/anaconda3",
+        "fileHash": "39c2aeba9e4a4b8ab53edc8ce8818c81878d0824b0507f962e3ebaaeea0be338f13118a264bf73be72a3af4715e45d9397d1b074990e02e1662820d6fa8d86d2"
+      },
+      "expiry": 1618989878339
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "59227c2c17ac0202f16b59480e4baac087a30a68e3ec36e76ce7bbc0a12c670a3ec3c7b0b47a85ace518cce30d28299c6d20efd4d340b181b9bbd07932ae45d7",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.6-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.6-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "59227c2c17ac0202f16b59480e4baac087a30a68e3ec36e76ce7bbc0a12c670a3ec3c7b0b47a85ace518cce30d28299c6d20efd4d340b181b9bbd07932ae45d7",
+          "type": "Unknown",
+          "displayName": "Python 3.8.6 64-bit"
+        }
+      },
+      "expiry": 1618989878570
+    },
+    "ProposeLSBanner": false,
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.6 64-bit",
+        "hash": "59227c2c17ac0202f16b59480e4baac087a30a68e3ec36e76ce7bbc0a12c670a3ec3c7b0b47a85ace518cce30d28299c6d20efd4d340b181b9bbd07932ae45d7-2f93a685914fa16de74d9681e32b58c2"
+      },
+      "expiry": 1618989878413
+    },
+    "CONDA_ENVIRONMENTS": {
+      "data": [
+        {
+          "name": "base",
+          "path": "/home/chrisg/anaconda3"
+        }
+      ]
+    },
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/home/chrisg/anaconda3",
+        "fileHash": "39c2aeba9e4a4b8ab53edc8ce8818c81878d0824b0507f962e3ebaaeea0be338f13118a264bf73be72a3af4715e45d9397d1b074990e02e1662820d6fa8d86d2",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/chrisg/anaconda3",
+        "envName": "base"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/home/chrisg/anaconda3",
+        "fileHash": "39c2aeba9e4a4b8ab53edc8ce8818c81878d0824b0507f962e3ebaaeea0be338f13118a264bf73be72a3af4715e45d9397d1b074990e02e1662820d6fa8d86d2",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/chrisg/anaconda3",
+        "envName": "base"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/home/chrisg/anaconda3",
+        "fileHash": "39c2aeba9e4a4b8ab53edc8ce8818c81878d0824b0507f962e3ebaaeea0be338f13118a264bf73be72a3af4715e45d9397d1b074990e02e1662820d6fa8d86d2",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/chrisg/anaconda3",
+        "envName": "base"
+      }
+    ],
+    "PipEnvInformation": [
+      {
+        "pythonPath": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python",
+        "workspaceFolder": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller",
+        "envName": "music_controller"
+      },
+      {
+        "pythonPath": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python",
+        "workspaceFolder": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture",
+        "envName": "Computer-Architecture"
+      },
+      {
+        "pythonPath": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python",
+        "workspaceFolder": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture",
+        "envName": "Computer-Architecture"
+      }
+    ],
+    "/home/chrisg/anaconda3/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit ('base': conda)",
+        "hash": "39c2aeba9e4a4b8ab53edc8ce8818c81878d0824b0507f962e3ebaaeea0be338f13118a264bf73be72a3af4715e45d9397d1b074990e02e1662820d6fa8d86d2-b09bcf9419ef20504f30c68432d7b958"
+      },
+      "expiry": 1618990100287
+    },
+    "/home/chrisg/.pyenv/versions/system-3.8.6/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.6 64-bit ('system-3.8.6': venv)",
+        "hash": "7f8d9bf1d13ed7230bc9f9a1d274d324759545b375ccc4c1966387bf6738b1f4012c2a382ca7f0499a868696b812f6360f316b6707bfcac2adcfdb3d935a6e56-f1079fe5d40eefa20f07b01de29dc82a"
+      },
+      "expiry": 1618989878383
+    },
+    "/home/chrisg/.pyenv/shims/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.6 64-bit",
+        "hash": "88a02e176c6a8cdd01a127ca0290b7717dab7804e29705f2263637312e4c63fd819e49c54c646eb95c9be7d3c247278a859be83ffb46f2cb7a753b212e1b5ae4-dc093fe0da0af50a4fd90798942a8672"
+      },
+      "expiry": 1611297849414
+    },
+    "/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.6 64-bit",
+        "hash": "59227c2c17ac0202f16b59480e4baac087a30a68e3ec36e76ce7bbc0a12c670a3ec3c7b0b47a85ace518cce30d28299c6d20efd4d340b181b9bbd07932ae45d7-fe7cb2fffb55166517c2b71b29c41635"
+      },
+      "expiry": 1618989878428
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/home/chrisg/.pyenv/versions/3.10-dev/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.0-alpha",
+        "major": 3,
+        "minor": 10,
+        "patch": 0,
+        "prerelease": [
+          "alpha"
+        ],
+        "build": [],
+        "version": "3.10.0-alpha"
+      },
+      "sysPrefix": "/home/chrisg/.pyenv/versions/3.10-dev",
+      "fileHash": "66e43163213f94398496236545c16879e93eb3d54871941e0932fa87855535f668e651a498011a0ab099496be28de6c44d66c9d7de69fece5d5f6f33172b178d",
+      "envName": "3.10-dev",
+      "type": "Pyenv",
+      "displayName": "Python 3.10.0 64-bit ('3.10-dev': pyenv)"
+    },
+    "/home/chrisg/anaconda3/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "39c2aeba9e4a4b8ab53edc8ce8818c81878d0824b0507f962e3ebaaeea0be338f13118a264bf73be72a3af4715e45d9397d1b074990e02e1662820d6fa8d86d2",
+        "info": {
+          "architecture": 3,
+          "path": "/home/chrisg/anaconda3/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/home/chrisg/anaconda3",
+          "fileHash": "39c2aeba9e4a4b8ab53edc8ce8818c81878d0824b0507f962e3ebaaeea0be338f13118a264bf73be72a3af4715e45d9397d1b074990e02e1662820d6fa8d86d2",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/home/chrisg/anaconda3",
+          "envName": "base",
+          "displayName": "Python 3.8.5 64-bit ('base': conda)"
+        }
+      },
+      "expiry": 1618990100307
+    },
+    "/home/chrisg/.pyenv/versions/system-3.8.6/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "7f8d9bf1d13ed7230bc9f9a1d274d324759545b375ccc4c1966387bf6738b1f4012c2a382ca7f0499a868696b812f6360f316b6707bfcac2adcfdb3d935a6e56",
+        "info": {
+          "architecture": 3,
+          "path": "/home/chrisg/.pyenv/versions/system-3.8.6/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.6-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.6-final"
+          },
+          "sysPrefix": "/home/chrisg/.pyenv/versions/system-3.8.6",
+          "fileHash": "7f8d9bf1d13ed7230bc9f9a1d274d324759545b375ccc4c1966387bf6738b1f4012c2a382ca7f0499a868696b812f6360f316b6707bfcac2adcfdb3d935a6e56",
+          "envName": "system-3.8.6",
+          "type": "Venv",
+          "displayName": "Python 3.8.6 64-bit ('system-3.8.6': venv)"
+        }
+      },
+      "expiry": 1618989878530
+    },
+    "/home/chrisg/.pyenv/shims/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "88a02e176c6a8cdd01a127ca0290b7717dab7804e29705f2263637312e4c63fd819e49c54c646eb95c9be7d3c247278a859be83ffb46f2cb7a753b212e1b5ae4",
+        "info": {
+          "architecture": 3,
+          "path": "/home/chrisg/.pyenv/shims/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.6-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.6-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "88a02e176c6a8cdd01a127ca0290b7717dab7804e29705f2263637312e4c63fd819e49c54c646eb95c9be7d3c247278a859be83ffb46f2cb7a753b212e1b5ae4",
+          "type": "Unknown",
+          "displayName": "Python 3.8.6 64-bit"
+        }
+      },
+      "expiry": 1611297849467
+    },
+    "/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "59227c2c17ac0202f16b59480e4baac087a30a68e3ec36e76ce7bbc0a12c670a3ec3c7b0b47a85ace518cce30d28299c6d20efd4d340b181b9bbd07932ae45d7",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.6-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.6-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "59227c2c17ac0202f16b59480e4baac087a30a68e3ec36e76ce7bbc0a12c670a3ec3c7b0b47a85ace518cce30d28299c6d20efd4d340b181b9bbd07932ae45d7",
+          "type": "Unknown",
+          "displayName": "Python 3.8.6 64-bit"
+        }
+      },
+      "expiry": 1618989878586
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/home/chrisg/.pyenv/versions/3.10-dev/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.0-alpha",
+        "major": 3,
+        "minor": 10,
+        "patch": 0,
+        "prerelease": [
+          "alpha"
+        ],
+        "build": [],
+        "version": "3.10.0-alpha"
+      },
+      "sysPrefix": "/home/chrisg/.pyenv/versions/3.10-dev",
+      "fileHash": "66e43163213f94398496236545c16879e93eb3d54871941e0932fa87855535f668e651a498011a0ab099496be28de6c44d66c9d7de69fece5d5f6f33172b178d",
+      "envName": "3.10-dev",
+      "type": "Pyenv",
+      "displayName": "Python 3.10.0 64-bit ('3.10-dev': pyenv)"
+    },
+    "/home/chrisg/.pyenv/shims/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "2100a8ebfc8faba465789a105ac823f3be728275edd097e3c93601b9085f7896799b6b480d29d28194345dea9af205134258fdfe193e9b44aef569b1730fc240"
+      },
+      "expiry": 1618989877954
+    },
+    "/home/chrisg/.local/share/virtualenvs/passgen-hmv5XzET/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/.local/share/virtualenvs/passgen-hmv5XzET/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/.local/share/virtualenvs/passgen-hmv5XzET",
+        "fileHash": "bdc7a3bc7efb961ab4dd5935497a2a6cf1817a914d88473ab7f911a0d42aa8842116ac0d3f4a452567d503d76c5f9937a2b2bbfd3979afff53f64428ef5a9658"
+      },
+      "expiry": 1611298154164
+    },
+    "/home/chrisg/.local/share/virtualenvs/passgen-hmv5XzET/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/.local/share/virtualenvs/passgen-hmv5XzET/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/.local/share/virtualenvs/passgen-hmv5XzET",
+        "fileHash": "bdc7a3bc7efb961ab4dd5935497a2a6cf1817a914d88473ab7f911a0d42aa8842116ac0d3f4a452567d503d76c5f9937a2b2bbfd3979afff53f64428ef5a9658"
+      },
+      "expiry": 1611298154166
+    },
+    "/home/chrisg/.local/share/virtualenvs/passgen-hmv5XzET/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/.local/share/virtualenvs/passgen-hmv5XzET/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/.local/share/virtualenvs/passgen-hmv5XzET",
+        "fileHash": "bdc7a3bc7efb961ab4dd5935497a2a6cf1817a914d88473ab7f911a0d42aa8842116ac0d3f4a452567d503d76c5f9937a2b2bbfd3979afff53f64428ef5a9658"
+      },
+      "expiry": 1611298154170
+    },
+    "/home/chrisg/.local/share/virtualenvs/passgen-hmv5XzET/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.6 64-bit",
+        "hash": "bdc7a3bc7efb961ab4dd5935497a2a6cf1817a914d88473ab7f911a0d42aa8842116ac0d3f4a452567d503d76c5f9937a2b2bbfd3979afff53f64428ef5a9658-3b83340254ca84dddb6a9b164fc804d0"
+      },
+      "expiry": 1611298154398
+    },
+    "/home/chrisg/.local/share/virtualenvs/passgen-hmv5XzET/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "bdc7a3bc7efb961ab4dd5935497a2a6cf1817a914d88473ab7f911a0d42aa8842116ac0d3f4a452567d503d76c5f9937a2b2bbfd3979afff53f64428ef5a9658",
+        "info": {
+          "architecture": 3,
+          "path": "/home/chrisg/.local/share/virtualenvs/passgen-hmv5XzET/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.6-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.6-final"
+          },
+          "sysPrefix": "/home/chrisg/.local/share/virtualenvs/passgen-hmv5XzET",
+          "fileHash": "bdc7a3bc7efb961ab4dd5935497a2a6cf1817a914d88473ab7f911a0d42aa8842116ac0d3f4a452567d503d76c5f9937a2b2bbfd3979afff53f64428ef5a9658",
+          "type": "Unknown",
+          "displayName": "Python 3.8.6 64-bit"
+        }
+      },
+      "expiry": 1611298154501
+    },
+    "/home/chrisg/.local/share/virtualenvs/passgen-hmv5XzET/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.6 64-bit",
+        "hash": "bdc7a3bc7efb961ab4dd5935497a2a6cf1817a914d88473ab7f911a0d42aa8842116ac0d3f4a452567d503d76c5f9937a2b2bbfd3979afff53f64428ef5a9658-698e0bb0e8a04c95033ca62d2c881220"
+      },
+      "expiry": 1611298154806
+    },
+    "/home/chrisg/.pyenv/shims/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit",
+        "hash": "2100a8ebfc8faba465789a105ac823f3be728275edd097e3c93601b9085f7896799b6b480d29d28194345dea9af205134258fdfe193e9b44aef569b1730fc240-47eee20552936eb04e08be42ab498f29"
+      },
+      "expiry": 1618989878395
+    },
+    "/home/chrisg/.local/share/virtualenvs/passgen-hmv5XzET/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "bdc7a3bc7efb961ab4dd5935497a2a6cf1817a914d88473ab7f911a0d42aa8842116ac0d3f4a452567d503d76c5f9937a2b2bbfd3979afff53f64428ef5a9658",
+        "info": {
+          "architecture": 3,
+          "path": "/home/chrisg/.local/share/virtualenvs/passgen-hmv5XzET/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.6-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.6-final"
+          },
+          "sysPrefix": "/home/chrisg/.local/share/virtualenvs/passgen-hmv5XzET",
+          "fileHash": "bdc7a3bc7efb961ab4dd5935497a2a6cf1817a914d88473ab7f911a0d42aa8842116ac0d3f4a452567d503d76c5f9937a2b2bbfd3979afff53f64428ef5a9658",
+          "type": "Unknown",
+          "displayName": "Python 3.8.6 64-bit"
+        }
+      },
+      "expiry": 1611298154847
+    },
+    "/home/chrisg/.pyenv/shims/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "2100a8ebfc8faba465789a105ac823f3be728275edd097e3c93601b9085f7896799b6b480d29d28194345dea9af205134258fdfe193e9b44aef569b1730fc240",
+        "info": {
+          "architecture": 3,
+          "path": "/home/chrisg/.pyenv/shims/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.1-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.1-final"
+          },
+          "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+          "fileHash": "2100a8ebfc8faba465789a105ac823f3be728275edd097e3c93601b9085f7896799b6b480d29d28194345dea9af205134258fdfe193e9b44aef569b1730fc240",
+          "type": "Unknown",
+          "displayName": "Python 3.9.1 64-bit"
+        }
+      },
+      "expiry": 1618989878544
+    },
+    "/home/chrisg/.pyenv/versions/system-3.8.6/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "7f8d9bf1d13ed7230bc9f9a1d274d324759545b375ccc4c1966387bf6738b1f4012c2a382ca7f0499a868696b812f6360f316b6707bfcac2adcfdb3d935a6e56"
+      },
+      "expiry": 1619048745268
+    },
+    "/home/chrisg/.pyenv/versions/system-3.8.6/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.6 64-bit ('system-3.8.6': venv)",
+        "hash": "7f8d9bf1d13ed7230bc9f9a1d274d324759545b375ccc4c1966387bf6738b1f4012c2a382ca7f0499a868696b812f6360f316b6707bfcac2adcfdb3d935a6e56-3a96743b40d77ff02d5e6041c84ab7cd"
+      },
+      "expiry": 1619048745349
+    },
+    "/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "3c2982038cf0bc6f9cc531674537fa0cc0b3984c8b1878a5356f5c627ac2d6dcb9f28aaa1572e7d70dab4e75645dd7883ab6f85aca5f74e2d67848de2978748c"
+      },
+      "expiry": 1618989877923
+    },
+    "/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "453028306fc83040c3c9a021ae5b2219015da402e829dc22e3b9bd777a9b5e9912d749f30c9065b5d12e3abe18d9e9448a7c5d9a583566ca24178126eaee8627"
+      },
+      "expiry": 1618989877925
+    },
+    "/usr/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "3c2982038cf0bc6f9cc531674537fa0cc0b3984c8b1878a5356f5c627ac2d6dcb9f28aaa1572e7d70dab4e75645dd7883ab6f85aca5f74e2d67848de2978748c"
+      },
+      "expiry": 1618989877935
+    },
+    "/usr/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "453028306fc83040c3c9a021ae5b2219015da402e829dc22e3b9bd777a9b5e9912d749f30c9065b5d12e3abe18d9e9448a7c5d9a583566ca24178126eaee8627"
+      },
+      "expiry": 1618989877938
+    },
+    "/usr/bin/python2.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit",
+        "hash": "453028306fc83040c3c9a021ae5b2219015da402e829dc22e3b9bd777a9b5e9912d749f30c9065b5d12e3abe18d9e9448a7c5d9a583566ca24178126eaee8627-a8d6a3ccbc8950c01bc5e592176451be"
+      },
+      "expiry": 1618989878405
+    },
+    "/bin/python2.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit",
+        "hash": "453028306fc83040c3c9a021ae5b2219015da402e829dc22e3b9bd777a9b5e9912d749f30c9065b5d12e3abe18d9e9448a7c5d9a583566ca24178126eaee8627-c5fa8eab0386e310d6114e347aacd7be"
+      },
+      "expiry": 1618989878419
+    },
+    "/usr/bin/python2.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "453028306fc83040c3c9a021ae5b2219015da402e829dc22e3b9bd777a9b5e9912d749f30c9065b5d12e3abe18d9e9448a7c5d9a583566ca24178126eaee8627",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python2",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "453028306fc83040c3c9a021ae5b2219015da402e829dc22e3b9bd777a9b5e9912d749f30c9065b5d12e3abe18d9e9448a7c5d9a583566ca24178126eaee8627",
+          "type": "Unknown",
+          "displayName": "Python 2.7.18 64-bit"
+        }
+      },
+      "expiry": 1618989878560
+    },
+    "/bin/python2.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "453028306fc83040c3c9a021ae5b2219015da402e829dc22e3b9bd777a9b5e9912d749f30c9065b5d12e3abe18d9e9448a7c5d9a583566ca24178126eaee8627",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python2",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "453028306fc83040c3c9a021ae5b2219015da402e829dc22e3b9bd777a9b5e9912d749f30c9065b5d12e3abe18d9e9448a7c5d9a583566ca24178126eaee8627",
+          "type": "Unknown",
+          "displayName": "Python 2.7.18 64-bit"
+        }
+      },
+      "expiry": 1618989878578
+    },
+    "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv",
+        "fileHash": "a841f165500382592cffdadbfdee5cf5cd790b70ef54d3623c3e8d6e80eb210dcc5242586c5e8f7ef8588b6659b1b2218bc6c1602e95951ab2c87ae72891cf66"
+      },
+      "expiry": 1618242300394
+    },
+    "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv",
+        "fileHash": "a841f165500382592cffdadbfdee5cf5cd790b70ef54d3623c3e8d6e80eb210dcc5242586c5e8f7ef8588b6659b1b2218bc6c1602e95951ab2c87ae72891cf66"
+      },
+      "expiry": 1618242300397
+    },
+    "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv",
+        "fileHash": "a841f165500382592cffdadbfdee5cf5cd790b70ef54d3623c3e8d6e80eb210dcc5242586c5e8f7ef8588b6659b1b2218bc6c1602e95951ab2c87ae72891cf66"
+      },
+      "expiry": 1618242300399
+    },
+    "InterpreterAutoSeletionRule-environment": {
+      "architecture": 3,
+      "path": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv",
+      "fileHash": "1026323541c9b4eebcafefaefe70cdda15b889115f5d04fbe1f7b5cab5353000e8d877d08d3c4a9bd821cb98f6ecafb426ea38c399ca191bb9ab4d1ead2624e7",
+      "type": "VirtualEnv"
+    },
+    "/home/chrisg/.pyenv/versions/3.9.1/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/versions/3.9.1/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "1fd1b3673ad2b5d1f7ad8855efedd8d71b68afef47ffe3ed726b208f962fd22adcd8085244c2e19919ee0a3f0dc850608230484ae8b3fb1b1332aed3bae0f276"
+      },
+      "expiry": 1618989878042
+    },
+    "/home/chrisg/.pyenv/versions/3.9.1/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/versions/3.9.1/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "e9416e8d4f54d04ba98f149c137a129a077393677f203fe6bb235cf4368b31eee8f7fa7051020d69a5a839103203bdbe2d88323bd40aa2012c07f1ad1b58191c"
+      },
+      "expiry": 1618989878092
+    },
+    "/home/chrisg/.pyenv/versions/3.9.1/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/versions/3.9.1/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "52a4317840d0b3e9ab1bdc572e352613f4a32bae60cdf19619577c6e05bd6a3502f88752af89c9e14844cda70649bada093de218408df5bc26962d5e102d5fcf"
+      },
+      "expiry": 1618989878090
+    },
+    "/home/chrisg/.pyenv/versions/3.10-dev/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/versions/3.10-dev/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-alpha",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "alpha"
+          ],
+          "build": [],
+          "version": "3.10.0-alpha"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.10-dev",
+        "fileHash": "63427822b0d37b15afcf6a4539857288571d05835cc09fbcf7c05d81ab4438103905c4cc6a1894434472059722068f04b97acf792e505db9d192ee57442da21c"
+      },
+      "expiry": 1618989878055
+    },
+    "/home/chrisg/.pyenv/versions/3.10-dev/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/versions/3.10-dev/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-alpha",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "alpha"
+          ],
+          "build": [],
+          "version": "3.10.0-alpha"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.10-dev",
+        "fileHash": "423635a4285793f987c9901c199276026c3b0b4831ddcad057fef997105a392f248aa61d9f0897770fe50134b4190b8e31aa7883976482863f11a5bd280e0389"
+      },
+      "expiry": 1618989878060
+    },
+    "/home/chrisg/.pyenv/versions/3.10-dev/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/versions/3.10-dev/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.0-alpha",
+          "major": 3,
+          "minor": 10,
+          "patch": 0,
+          "prerelease": [
+            "alpha"
+          ],
+          "build": [],
+          "version": "3.10.0-alpha"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.10-dev",
+        "fileHash": "66e43163213f94398496236545c16879e93eb3d54871941e0932fa87855535f668e651a498011a0ab099496be28de6c44d66c9d7de69fece5d5f6f33172b178d"
+      },
+      "expiry": 1618989878064
+    },
+    "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.6 64-bit ('music_controller': pipenv)",
+        "hash": "a841f165500382592cffdadbfdee5cf5cd790b70ef54d3623c3e8d6e80eb210dcc5242586c5e8f7ef8588b6659b1b2218bc6c1602e95951ab2c87ae72891cf66-dc336e62234caf0aaa9090a9d154d88f"
+      },
+      "expiry": 1618242300554
+    },
+    "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "a841f165500382592cffdadbfdee5cf5cd790b70ef54d3623c3e8d6e80eb210dcc5242586c5e8f7ef8588b6659b1b2218bc6c1602e95951ab2c87ae72891cf66"
+      },
+      "expiry": 1618242300570
+    },
+    "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "a841f165500382592cffdadbfdee5cf5cd790b70ef54d3623c3e8d6e80eb210dcc5242586c5e8f7ef8588b6659b1b2218bc6c1602e95951ab2c87ae72891cf66",
+        "info": {
+          "architecture": 3,
+          "path": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.6-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.6-final"
+          },
+          "sysPrefix": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv",
+          "fileHash": "a841f165500382592cffdadbfdee5cf5cd790b70ef54d3623c3e8d6e80eb210dcc5242586c5e8f7ef8588b6659b1b2218bc6c1602e95951ab2c87ae72891cf66",
+          "type": "PipEnv",
+          "pipEnvWorkspaceFolder": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller",
+          "envName": "music_controller",
+          "displayName": "Python 3.8.6 64-bit ('music_controller': pipenv)"
+        }
+      },
+      "expiry": 1618242300640
+    },
+    "/home/chrisg/.pyenv/versions/3.10-dev/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.0 64-bit ('3.10-dev': pyenv)",
+        "hash": "66e43163213f94398496236545c16879e93eb3d54871941e0932fa87855535f668e651a498011a0ab099496be28de6c44d66c9d7de69fece5d5f6f33172b178d-79846850472f1847549000f5e77e67f4"
+      },
+      "expiry": 1618989878366
+    },
+    "/home/chrisg/.pyenv/versions/3.9.1/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit ('3.9.1': pyenv)",
+        "hash": "52a4317840d0b3e9ab1bdc572e352613f4a32bae60cdf19619577c6e05bd6a3502f88752af89c9e14844cda70649bada093de218408df5bc26962d5e102d5fcf-3b6e114f78127ef8c13030ed6c41682b"
+      },
+      "expiry": 1618989878373
+    },
+    "/home/chrisg/.pyenv/versions/3.10-dev/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "66e43163213f94398496236545c16879e93eb3d54871941e0932fa87855535f668e651a498011a0ab099496be28de6c44d66c9d7de69fece5d5f6f33172b178d",
+        "info": {
+          "architecture": 3,
+          "path": "/home/chrisg/.pyenv/versions/3.10-dev/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.0-alpha",
+            "major": 3,
+            "minor": 10,
+            "patch": 0,
+            "prerelease": [
+              "alpha"
+            ],
+            "build": [],
+            "version": "3.10.0-alpha"
+          },
+          "sysPrefix": "/home/chrisg/.pyenv/versions/3.10-dev",
+          "fileHash": "66e43163213f94398496236545c16879e93eb3d54871941e0932fa87855535f668e651a498011a0ab099496be28de6c44d66c9d7de69fece5d5f6f33172b178d",
+          "envName": "3.10-dev",
+          "type": "Pyenv",
+          "displayName": "Python 3.10.0 64-bit ('3.10-dev': pyenv)"
+        }
+      },
+      "expiry": 1618989878497
+    },
+    "/home/chrisg/.pyenv/versions/3.9.1/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "52a4317840d0b3e9ab1bdc572e352613f4a32bae60cdf19619577c6e05bd6a3502f88752af89c9e14844cda70649bada093de218408df5bc26962d5e102d5fcf",
+        "info": {
+          "architecture": 3,
+          "path": "/home/chrisg/.pyenv/versions/3.9.1/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.1-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.1-final"
+          },
+          "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+          "fileHash": "52a4317840d0b3e9ab1bdc572e352613f4a32bae60cdf19619577c6e05bd6a3502f88752af89c9e14844cda70649bada093de218408df5bc26962d5e102d5fcf",
+          "envName": "3.9.1",
+          "type": "Pyenv",
+          "displayName": "Python 3.9.1 64-bit ('3.9.1': pyenv)"
+        }
+      },
+      "expiry": 1618989878516
+    },
+    "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.6 64-bit ('.venv': venv)",
+        "hash": "a841f165500382592cffdadbfdee5cf5cd790b70ef54d3623c3e8d6e80eb210dcc5242586c5e8f7ef8588b6659b1b2218bc6c1602e95951ab2c87ae72891cf66-9a6e7049dae0feb0f1482ef93077d188"
+      },
+      "expiry": 1618242300953
+    },
+    "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv",
+        "fileHash": "e7b5676f554d297d1d74badcde51a089c892c675ed1de52173dcf715780d4d654e476dce076b9642b704f9a2e953ae8f83ac5d8d6a75442395de871c66fb561f"
+      },
+      "expiry": 1618885313278
+    },
+    "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv",
+        "fileHash": "e7b5676f554d297d1d74badcde51a089c892c675ed1de52173dcf715780d4d654e476dce076b9642b704f9a2e953ae8f83ac5d8d6a75442395de871c66fb561f"
+      },
+      "expiry": 1618885313280
+    },
+    "/home/chrisg/.pyenv/shims/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/.pyenv/shims/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+        "fileHash": "d377d943ff11c6a883c17d6b6501b4144e02a62f3f93ed6b64fc7851e57d5da45bbc50e13504e8c0514366b7703aece58e7c251661ba7e924ce976511f5bbba8"
+      },
+      "expiry": 1618989877948
+    },
+    "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv",
+        "fileHash": "e7b5676f554d297d1d74badcde51a089c892c675ed1de52173dcf715780d4d654e476dce076b9642b704f9a2e953ae8f83ac5d8d6a75442395de871c66fb561f"
+      },
+      "expiry": 1618885313274
+    },
+    "InterpreterAutoSeletionRule-workspaceEnvs": {
+      "architecture": 3,
+      "path": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv",
+      "fileHash": "dd5365d311e6f596d096c0847c9b5056576e302e801b75e77ccb3cd7d9cf8e17464d25ed24996fc1e1d4bcfacf9a7548fa581bc234e4f976f2d7cf06230dea88",
+      "envName": ".venv",
+      "type": "Venv"
+    },
+    "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit ('Computer-Architecture': pipenv)",
+        "hash": "e7b5676f554d297d1d74badcde51a089c892c675ed1de52173dcf715780d4d654e476dce076b9642b704f9a2e953ae8f83ac5d8d6a75442395de871c66fb561f-40b2499f359ce96827ebc59fb0a2327e"
+      },
+      "expiry": 1618885500815
+    },
+    "/home/chrisg/.pyenv/shims/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit",
+        "hash": "d377d943ff11c6a883c17d6b6501b4144e02a62f3f93ed6b64fc7851e57d5da45bbc50e13504e8c0514366b7703aece58e7c251661ba7e924ce976511f5bbba8-f4b5c028551b2e1185ddad3d933ff865"
+      },
+      "expiry": 1618686785827
+    },
+    "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "e7b5676f554d297d1d74badcde51a089c892c675ed1de52173dcf715780d4d654e476dce076b9642b704f9a2e953ae8f83ac5d8d6a75442395de871c66fb561f",
+        "info": {
+          "architecture": 3,
+          "path": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.1-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.1-final"
+          },
+          "sysPrefix": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv",
+          "fileHash": "e7b5676f554d297d1d74badcde51a089c892c675ed1de52173dcf715780d4d654e476dce076b9642b704f9a2e953ae8f83ac5d8d6a75442395de871c66fb561f",
+          "type": "PipEnv",
+          "pipEnvWorkspaceFolder": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture",
+          "envName": "Computer-Architecture",
+          "displayName": "Python 3.9.1 64-bit ('Computer-Architecture': pipenv)"
+        }
+      },
+      "expiry": 1618885500871
+    },
+    "/home/chrisg/.pyenv/shims/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "d377d943ff11c6a883c17d6b6501b4144e02a62f3f93ed6b64fc7851e57d5da45bbc50e13504e8c0514366b7703aece58e7c251661ba7e924ce976511f5bbba8",
+        "info": {
+          "architecture": 3,
+          "path": "/home/chrisg/.pyenv/shims/python3.9",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.1-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.1-final"
+          },
+          "sysPrefix": "/home/chrisg/.pyenv/versions/3.9.1",
+          "fileHash": "d377d943ff11c6a883c17d6b6501b4144e02a62f3f93ed6b64fc7851e57d5da45bbc50e13504e8c0514366b7703aece58e7c251661ba7e924ce976511f5bbba8",
+          "type": "Unknown",
+          "displayName": "Python 3.9.1 64-bit"
+        }
+      },
+      "expiry": 1618686786008
+    },
+    "/home/chrisg/.pyenv/versions/3.9.1/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "e9416e8d4f54d04ba98f149c137a129a077393677f203fe6bb235cf4368b31eee8f7fa7051020d69a5a839103203bdbe2d88323bd40aa2012c07f1ad1b58191c"
+      },
+      "expiry": 1618989878601
+    },
+    "/home/chrisg/.pyenv/versions/3.9.1/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit ('3.9.1': pyenv)",
+        "hash": "e9416e8d4f54d04ba98f149c137a129a077393677f203fe6bb235cf4368b31eee8f7fa7051020d69a5a839103203bdbe2d88323bd40aa2012c07f1ad1b58191c-2e59ea057bee4cb7ed5b200af01a1402"
+      },
+      "expiry": 1618989878783
+    },
+    "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "e7b5676f554d297d1d74badcde51a089c892c675ed1de52173dcf715780d4d654e476dce076b9642b704f9a2e953ae8f83ac5d8d6a75442395de871c66fb561f"
+      },
+      "expiry": 1618885313765
+    },
+    "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit ('.venv': venv)",
+        "hash": "e7b5676f554d297d1d74badcde51a089c892c675ed1de52173dcf715780d4d654e476dce076b9642b704f9a2e953ae8f83ac5d8d6a75442395de871c66fb561f-5c9d8454f78e5f18eb365f81a0fb3bc0"
+      },
+      "expiry": 1618885314277
+    },
+    "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv",
+        "fileHash": "dd5365d311e6f596d096c0847c9b5056576e302e801b75e77ccb3cd7d9cf8e17464d25ed24996fc1e1d4bcfacf9a7548fa581bc234e4f976f2d7cf06230dea88"
+      },
+      "expiry": 1618840282359
+    },
+    "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv",
+        "fileHash": "dd5365d311e6f596d096c0847c9b5056576e302e801b75e77ccb3cd7d9cf8e17464d25ed24996fc1e1d4bcfacf9a7548fa581bc234e4f976f2d7cf06230dea88"
+      },
+      "expiry": 1618840282363
+    },
+    "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv",
+        "fileHash": "dd5365d311e6f596d096c0847c9b5056576e302e801b75e77ccb3cd7d9cf8e17464d25ed24996fc1e1d4bcfacf9a7548fa581bc234e4f976f2d7cf06230dea88"
+      },
+      "expiry": 1618840282400
+    },
+    "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit ('Computer-Architecture': pipenv)",
+        "hash": "dd5365d311e6f596d096c0847c9b5056576e302e801b75e77ccb3cd7d9cf8e17464d25ed24996fc1e1d4bcfacf9a7548fa581bc234e4f976f2d7cf06230dea88-07f43dfd2b53fc1aece1d2bf510d3d5b"
+      },
+      "expiry": 1618840943896
+    },
+    "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "dd5365d311e6f596d096c0847c9b5056576e302e801b75e77ccb3cd7d9cf8e17464d25ed24996fc1e1d4bcfacf9a7548fa581bc234e4f976f2d7cf06230dea88",
+        "info": {
+          "architecture": 3,
+          "path": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.1-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.1-final"
+          },
+          "sysPrefix": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv",
+          "fileHash": "dd5365d311e6f596d096c0847c9b5056576e302e801b75e77ccb3cd7d9cf8e17464d25ed24996fc1e1d4bcfacf9a7548fa581bc234e4f976f2d7cf06230dea88",
+          "type": "PipEnv",
+          "pipEnvWorkspaceFolder": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture",
+          "envName": "Computer-Architecture",
+          "displayName": "Python 3.9.1 64-bit ('Computer-Architecture': pipenv)"
+        }
+      },
+      "expiry": 1618840943971
+    },
+    "/home/chrisg/.pyenv/shims/python3.8.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.6 64-bit",
+        "hash": "40b50035dc2eb28d2b67e2ce8e02d9f21f35f73c3e453786edf80f7e2f12110f9aa440cebcaecaa3f6daed4eec77eadb7d357b6b0d7cf3cfc70e8d73264a20a8-15ff93343dfb9cef90d78db0c031d1e7"
+      },
+      "expiry": 1619048745112
+    },
+    "/home/chrisg/.pyenv/shims/python3.8.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "40b50035dc2eb28d2b67e2ce8e02d9f21f35f73c3e453786edf80f7e2f12110f9aa440cebcaecaa3f6daed4eec77eadb7d357b6b0d7cf3cfc70e8d73264a20a8",
+        "info": {
+          "architecture": 3,
+          "path": "/home/chrisg/.pyenv/shims/python3.8",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.6-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.6-final"
+          },
+          "sysPrefix": "/home/chrisg/.pyenv/versions/system-3.8.6",
+          "fileHash": "40b50035dc2eb28d2b67e2ce8e02d9f21f35f73c3e453786edf80f7e2f12110f9aa440cebcaecaa3f6daed4eec77eadb7d357b6b0d7cf3cfc70e8d73264a20a8",
+          "type": "Unknown",
+          "displayName": "Python 3.8.6 64-bit"
+        }
+      },
+      "expiry": 1619048745210
+    },
+    "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv",
+        "fileHash": "1026323541c9b4eebcafefaefe70cdda15b889115f5d04fbe1f7b5cab5353000e8d877d08d3c4a9bd821cb98f6ecafb426ea38c399ca191bb9ab4d1ead2624e7"
+      },
+      "expiry": 1619043111430
+    },
+    "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv",
+        "fileHash": "1026323541c9b4eebcafefaefe70cdda15b889115f5d04fbe1f7b5cab5353000e8d877d08d3c4a9bd821cb98f6ecafb426ea38c399ca191bb9ab4d1ead2624e7"
+      },
+      "expiry": 1619043111655
+    },
+    "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv",
+        "fileHash": "1026323541c9b4eebcafefaefe70cdda15b889115f5d04fbe1f7b5cab5353000e8d877d08d3c4a9bd821cb98f6ecafb426ea38c399ca191bb9ab4d1ead2624e7"
+      },
+      "expiry": 1619043111488
+    },
+    "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit",
+        "hash": "1026323541c9b4eebcafefaefe70cdda15b889115f5d04fbe1f7b5cab5353000e8d877d08d3c4a9bd821cb98f6ecafb426ea38c399ca191bb9ab4d1ead2624e7-b710d707b6597a863babe2976a6f0a71"
+      },
+      "expiry": 1619043111753
+    },
+    "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "1026323541c9b4eebcafefaefe70cdda15b889115f5d04fbe1f7b5cab5353000e8d877d08d3c4a9bd821cb98f6ecafb426ea38c399ca191bb9ab4d1ead2624e7",
+        "info": {
+          "architecture": 3,
+          "path": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.1-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.1-final"
+          },
+          "sysPrefix": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv",
+          "fileHash": "1026323541c9b4eebcafefaefe70cdda15b889115f5d04fbe1f7b5cab5353000e8d877d08d3c4a9bd821cb98f6ecafb426ea38c399ca191bb9ab4d1ead2624e7",
+          "type": "Unknown",
+          "displayName": "Python 3.9.1 64-bit"
+        }
+      },
+      "expiry": 1619043111913
+    },
+    "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "1026323541c9b4eebcafefaefe70cdda15b889115f5d04fbe1f7b5cab5353000e8d877d08d3c4a9bd821cb98f6ecafb426ea38c399ca191bb9ab4d1ead2624e7"
+      },
+      "expiry": 1619043112001
+    },
+    "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.1 64-bit ('.venv': venv)",
+        "hash": "1026323541c9b4eebcafefaefe70cdda15b889115f5d04fbe1f7b5cab5353000e8d877d08d3c4a9bd821cb98f6ecafb426ea38c399ca191bb9ab4d1ead2624e7-3df6d64fdb1428317d9034de73a343d4"
+      },
+      "expiry": 1619043112362
+    }
+  },
+  "coc-python|/home/chrisg/Documents/learning/python/b202374dd5bfada978366df122c47f01": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:f9cea91be32d250daee39c61630f92c4": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:f9cea91be32d250daee39c61630f92c4": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/chrisg/Documents/learning/python/cs_1-3": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:a2fc1407cf8d31bb1b46240878b4d73b": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:a2fc1407cf8d31bb1b46240878b4d73b": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/chrisg/Documents/learning/lambda": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:6c041149296deac6bf140282e9d06470": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:6c041149296deac6bf140282e9d06470": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/chrisg/Documents/learning/python": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:41c99a44d3054c490179a850409649f7": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:41c99a44d3054c490179a850409649f7": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/chrisg/Documents/lambda/cs2/Graphs": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:5f5aa91c84abf9458324daf448fb0053": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:5f5aa91c84abf9458324daf448fb0053": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller": {
+    "SelectedPythonPath": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python3",
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:43a433d65d4d74c780e391fdac234463": [
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv",
+        "fileHash": "a841f165500382592cffdadbfdee5cf5cd790b70ef54d3623c3e8d6e80eb210dcc5242586c5e8f7ef8588b6659b1b2218bc6c1602e95951ab2c87ae72891cf66",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv",
+        "fileHash": "a841f165500382592cffdadbfdee5cf5cd790b70ef54d3623c3e8d6e80eb210dcc5242586c5e8f7ef8588b6659b1b2218bc6c1602e95951ab2c87ae72891cf66",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv",
+        "fileHash": "a841f165500382592cffdadbfdee5cf5cd790b70ef54d3623c3e8d6e80eb210dcc5242586c5e8f7ef8588b6659b1b2218bc6c1602e95951ab2c87ae72891cf66",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_PipEnvService:43a433d65d4d74c780e391fdac234463": [
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv",
+        "fileHash": "a841f165500382592cffdadbfdee5cf5cd790b70ef54d3623c3e8d6e80eb210dcc5242586c5e8f7ef8588b6659b1b2218bc6c1602e95951ab2c87ae72891cf66",
+        "type": "PipEnv",
+        "pipEnvWorkspaceFolder": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller": {
+      "architecture": 3,
+      "path": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.6-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.6-final"
+      },
+      "sysPrefix": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv",
+      "fileHash": "a841f165500382592cffdadbfdee5cf5cd790b70ef54d3623c3e8d6e80eb210dcc5242586c5e8f7ef8588b6659b1b2218bc6c1602e95951ab2c87ae72891cf66",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv",
+        "fileHash": "a841f165500382592cffdadbfdee5cf5cd790b70ef54d3623c3e8d6e80eb210dcc5242586c5e8f7ef8588b6659b1b2218bc6c1602e95951ab2c87ae72891cf66",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv",
+        "fileHash": "a841f165500382592cffdadbfdee5cf5cd790b70ef54d3623c3e8d6e80eb210dcc5242586c5e8f7ef8588b6659b1b2218bc6c1602e95951ab2c87ae72891cf66",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv",
+        "fileHash": "a841f165500382592cffdadbfdee5cf5cd790b70ef54d3623c3e8d6e80eb210dcc5242586c5e8f7ef8588b6659b1b2218bc6c1602e95951ab2c87ae72891cf66",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller/.venv",
+        "fileHash": "a841f165500382592cffdadbfdee5cf5cd790b70ef54d3623c3e8d6e80eb210dcc5242586c5e8f7ef8588b6659b1b2218bc6c1602e95951ab2c87ae72891cf66",
+        "type": "PipEnv",
+        "pipEnvWorkspaceFolder": "/home/chrisg/Documents/learning/python/walkthroughs/react-python-django-tutorial/music_controller"
+      }
+    ]
+  },
+  "coc-python|/home/chrisg/Documents/lambda/cs2/Computer-Architecture": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:934c0f284f0f05bd55e1dfd98a0d76f8": [
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv",
+        "fileHash": "dd5365d311e6f596d096c0847c9b5056576e302e801b75e77ccb3cd7d9cf8e17464d25ed24996fc1e1d4bcfacf9a7548fa581bc234e4f976f2d7cf06230dea88",
+        "type": "PipEnv",
+        "pipEnvWorkspaceFolder": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:934c0f284f0f05bd55e1dfd98a0d76f8": [
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv",
+        "fileHash": "dd5365d311e6f596d096c0847c9b5056576e302e801b75e77ccb3cd7d9cf8e17464d25ed24996fc1e1d4bcfacf9a7548fa581bc234e4f976f2d7cf06230dea88",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv",
+        "fileHash": "dd5365d311e6f596d096c0847c9b5056576e302e801b75e77ccb3cd7d9cf8e17464d25ed24996fc1e1d4bcfacf9a7548fa581bc234e4f976f2d7cf06230dea88",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv",
+        "fileHash": "dd5365d311e6f596d096c0847c9b5056576e302e801b75e77ccb3cd7d9cf8e17464d25ed24996fc1e1d4bcfacf9a7548fa581bc234e4f976f2d7cf06230dea88",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv",
+        "fileHash": "dd5365d311e6f596d096c0847c9b5056576e302e801b75e77ccb3cd7d9cf8e17464d25ed24996fc1e1d4bcfacf9a7548fa581bc234e4f976f2d7cf06230dea88",
+        "type": "PipEnv",
+        "pipEnvWorkspaceFolder": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv",
+        "fileHash": "dd5365d311e6f596d096c0847c9b5056576e302e801b75e77ccb3cd7d9cf8e17464d25ed24996fc1e1d4bcfacf9a7548fa581bc234e4f976f2d7cf06230dea88",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv",
+        "fileHash": "dd5365d311e6f596d096c0847c9b5056576e302e801b75e77ccb3cd7d9cf8e17464d25ed24996fc1e1d4bcfacf9a7548fa581bc234e4f976f2d7cf06230dea88",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv",
+        "fileHash": "dd5365d311e6f596d096c0847c9b5056576e302e801b75e77ccb3cd7d9cf8e17464d25ed24996fc1e1d4bcfacf9a7548fa581bc234e4f976f2d7cf06230dea88",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python3.9",
+    "autoSelectedWorkspacePythonInterpreter-/home/chrisg/Documents/lambda/cs2/Computer-Architecture": {
+      "architecture": 3,
+      "path": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/home/chrisg/Documents/lambda/cs2/Computer-Architecture/.venv",
+      "fileHash": "dd5365d311e6f596d096c0847c9b5056576e302e801b75e77ccb3cd7d9cf8e17464d25ed24996fc1e1d4bcfacf9a7548fa581bc234e4f976f2d7cf06230dea88",
+      "envName": ".venv",
+      "type": "Venv"
+    }
+  },
+  "coc-python|/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:03edec9b2fdf259ea540eac6acd8a2d2": [
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv",
+        "fileHash": "e7b5676f554d297d1d74badcde51a089c892c675ed1de52173dcf715780d4d654e476dce076b9642b704f9a2e953ae8f83ac5d8d6a75442395de871c66fb561f",
+        "type": "PipEnv",
+        "pipEnvWorkspaceFolder": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:03edec9b2fdf259ea540eac6acd8a2d2": [
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv",
+        "fileHash": "e7b5676f554d297d1d74badcde51a089c892c675ed1de52173dcf715780d4d654e476dce076b9642b704f9a2e953ae8f83ac5d8d6a75442395de871c66fb561f",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv",
+        "fileHash": "e7b5676f554d297d1d74badcde51a089c892c675ed1de52173dcf715780d4d654e476dce076b9642b704f9a2e953ae8f83ac5d8d6a75442395de871c66fb561f",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv",
+        "fileHash": "e7b5676f554d297d1d74badcde51a089c892c675ed1de52173dcf715780d4d654e476dce076b9642b704f9a2e953ae8f83ac5d8d6a75442395de871c66fb561f",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv",
+        "fileHash": "e7b5676f554d297d1d74badcde51a089c892c675ed1de52173dcf715780d4d654e476dce076b9642b704f9a2e953ae8f83ac5d8d6a75442395de871c66fb561f",
+        "type": "PipEnv",
+        "pipEnvWorkspaceFolder": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv",
+        "fileHash": "e7b5676f554d297d1d74badcde51a089c892c675ed1de52173dcf715780d4d654e476dce076b9642b704f9a2e953ae8f83ac5d8d6a75442395de871c66fb561f",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv",
+        "fileHash": "e7b5676f554d297d1d74badcde51a089c892c675ed1de52173dcf715780d4d654e476dce076b9642b704f9a2e953ae8f83ac5d8d6a75442395de871c66fb561f",
+        "envName": ".venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.1-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 1,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.1-final"
+        },
+        "sysPrefix": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv",
+        "fileHash": "e7b5676f554d297d1d74badcde51a089c892c675ed1de52173dcf715780d4d654e476dce076b9642b704f9a2e953ae8f83ac5d8d6a75442395de871c66fb561f",
+        "envName": ".venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python3.9",
+    "autoSelectedWorkspacePythonInterpreter-/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture": {
+      "architecture": 3,
+      "path": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/home/chrisg/Documents/lambda/cs2/bak/Computer-Architecture/.venv",
+      "fileHash": "e7b5676f554d297d1d74badcde51a089c892c675ed1de52173dcf715780d4d654e476dce076b9642b704f9a2e953ae8f83ac5d8d6a75442395de871c66fb561f",
+      "envName": ".venv",
+      "type": "Venv"
+    }
+  },
+  "coc-python|/home/chrisg/misc": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:c5dd7d746333c39c7739f7b75bbf086d": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:c5dd7d746333c39c7739f7b75bbf086d": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:b8e6ff8a7868693da6ef85f654eb30b8": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:b8e6ff8a7868693da6ef85f654eb30b8": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "SelectedPythonPath": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python3",
+    "autoSelectedWorkspacePythonInterpreter-/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1": {
+      "architecture": 3,
+      "path": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.1-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.1-final"
+      },
+      "sysPrefix": "/home/chrisg/Documents/lambda/cs2/CS-Build-Week-1/project_py/.venv",
+      "fileHash": "1026323541c9b4eebcafefaefe70cdda15b889115f5d04fbe1f7b5cab5353000e8d877d08d3c4a9bd821cb98f6ecafb426ea38c399ca191bb9ab4d1ead2624e7",
+      "type": "VirtualEnv"
+    }
+  }
+}
