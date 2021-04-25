@@ -188,8 +188,8 @@ nnoremap <silent> <leader>wh :sp<CR>
 
 nnoremap <silent> <M-l> :vertical :resize -5<CR>
 nnoremap <silent> <M-r> :vertical :resize +5<CR>
-nnoremap <silent> <M-c> :resize +5<CR>
-nnoremap <silent> <M-t> :resize -5<CR>
+nnoremap <silent> <M-t> :resize +5<CR>
+nnoremap <silent> <M-w> :resize -5<CR>
 
 " Switch Buffers
 nnoremap <leader>h <C-w>h
@@ -650,14 +650,18 @@ autocmd FileType * :call GoCoc()
 "
 " Ale Settings
 let g:ale_linters = {
-  \ 'python': ['pylint', 'pyright', 'flake8']
+  \ 'python': ['pylint', 'pyright', 'flake8'],
+  \ 'c': ['clang'],
+  \ 'cpp': ['clang']
   \ }
 
 let g:ale_fixers = {
   \   '*': ['remove_trailing_lines', 'trim_whitespace'],
   \   'javascript': ['eslint', 'prettier'],
   \   'rust': ['rustfmt'],
-  \   'python': ['black', 'isort']
+  \   'python': ['black', 'isort'],
+  \   'cpp': ['clang-format'],
+  \   'c': ['clang-format']
   \ }
 " set omnifunc=ale#completion#OmniFunc
 let g:ale_completion_enabled = 0
