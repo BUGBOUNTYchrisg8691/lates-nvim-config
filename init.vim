@@ -100,6 +100,9 @@ call plug#begin('~/.config/nvim/plugs')
   " Markdown live preview
   Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install'  }
 
+  " NVim GDB
+  Plug 'sakhnik/nvim-gdb', { 'do': ':!./install.sh' }
+
   call plug#end()
 
 filetype plugin indent on
@@ -204,7 +207,7 @@ nnoremap <silent> <leader>to :sp term://zsh <bar> :resize 10<CR>a
 " Compile code
 "
 " Open CGDB
-nnoremap <silent> <leader>dd :vsp term://zsh -c cgdb<CR>a
+nnoremap <silent> <leader>gd :vsp term://zsh -c cgdb<CR>a
 
 " Open UndoTree
 
@@ -843,3 +846,36 @@ nnoremap <silent><leader>vl :SSave<CR>
 nnoremap <silent><leader>vd :SDelete<CR>
 nnoremap <silent><leader>vc :SClose<CR>
 nnoremap <silent><leader>vo :Startify<CR>
+
+" nvim gdb
+" let g:loaded_nvimgdb = 1
+
+" We're going to define single-letter keymaps, so don't try to define them
+" in the terminal window.  The debugger CLI should continue accepting text commands.
+function! NvimGdbNoTKeymaps()
+  tnoremap <silent> <buffer> <esc> <c-\><c-n>
+endfunction
+
+let g:nvimgdb_config_override = {
+  \ 'key_next': 'n',
+  \ 'key_step': 's',
+  \ 'key_finish': 'f',
+  \ 'key_continue': 'c',
+  \ 'key_until': 'u',
+  \ 'key_breakpoint': 'b',
+  \ 'set_tkeymaps': "NvimGdbNoTKeymaps",
+  \ }
+
+" Mapping	    Command	                            Description
+" <Leader>dd	:GdbStart gdb -q ./a.out	          Start debugging session, allows editing the launching command
+" <Leader>dl	:GdbStartLLDB lldb ./a.out	        Start debugging session, allows editing the launching command
+" <Leader>dp	:GdbStartPDB python -m pdb main.py	Start Python debugging session, allows editing the launching command
+" <Leader>db	:GdbStartBashDB bashdb main.sh	    Start BASH debugging session, allows editing the launching command
+" <F8>	      :GdbBreakpointToggle	              Toggle breakpoint in the coursor line
+" <F4>	      :GdbUntil	                          Continue execution until a given line (until in gdb)
+" <F5>	      :GdbContinue	                      Continue execution (continue in gdb)
+" <F10>	      :GdbNext	                          Step over the next statement (next in gdb)
+" <F11>	      :GdbStep	                          Step into the next statement (step in gdb)
+" <F12>	      :GdbFinish	                        Step out the current frame (finish in gdb)
+" <c-p>	      :GdbFrameUp	                        Navigate one frame up (up in gdb)
+" <c-n>	      :GdbFrameDown	                      Navigate one frame down (down in gdb)
