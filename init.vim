@@ -200,6 +200,12 @@ nnoremap <leader>k <C-w>k
 " Open Terminal
 nnoremap <silent> <leader>to :sp term://zsh <bar> :resize 10<CR>a
 
+" CPP Debugging
+" Compile code
+"
+" Open CGDB
+nnoremap <silent> <leader>dd :vsp term://zsh -c cgdb<CR>a
+
 " Open UndoTree
 
 " Sneak
