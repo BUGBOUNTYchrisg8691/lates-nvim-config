@@ -22,6 +22,7 @@ call plug#begin('~/.config/nvim/plugs')
   Plug 'HerringtonDarkholme/yats.vim'
   Plug 'yuezk/vim-js'
   Plug 'vim-python/python-syntax'
+  Plug 'gko/vim-coloresque'
 
   " Statusline
   Plug 'vim-airline/vim-airline'
@@ -105,6 +106,9 @@ call plug#begin('~/.config/nvim/plugs')
 
   " CPP syntax highlighting
   Plug 'octol/vim-cpp-enhanced-highlight'
+
+  " file formatting
+  Plug 'Chiel92/vim-autoformat'
 
 call plug#end()
 
@@ -229,7 +233,7 @@ let g:python_highlight_all = 1
 " Use deoplete.
 " let g:deoplete#enable_at_startup = 0
 " Jedi
-" let g:python3_host_prog = '/usr/bin/python3'
+let g:python3_host_prog = '/home/chrisg/.pyenv/shims/python3'
 
 " Quick Scope
 " Trigger a highlight in the appropriate direction when pressing these keys:
@@ -273,7 +277,7 @@ nmap <F8> :TagbarToggle<CR>
 
 " Ack
 cnoreabbrev Ack Ack!
-nnoremap <C-a> :Ack!<Space>
+nnoremap <leader>a :Ack!<Space>
 
 " Fallback on Ack
 if executable('rg')
@@ -334,6 +338,9 @@ let g:airline#extensions#ale#enabled = 1
 let g:airline#extensions#coc#enabled = 1
 let g:airline_powerline_fonts = 1
 let g:airline_theme='gruvbox_material'
+" Airline binds
+nmap <leader>tn <Plug>AirlineSelectNextTab
+nmap <leader>tp <Plug>AirlineSelectPrevTab
 
 " CtrlP Settings
 let g:ctrlp_map = '<c-p>'
@@ -483,7 +490,7 @@ set nobackup
 set nowritebackup
 
 " Give more space for displaying messages.
-set cmdheight=2
+set cmdheight=1
 
 " Having longer updatetime (default is 4000 ms = 4 s) leads to noticeable
 " delays and poor user experience.
@@ -670,6 +677,7 @@ let g:ale_linters = {
 let g:ale_fixers = {
   \   '*': ['remove_trailing_lines', 'trim_whitespace'],
   \   'javascript': ['eslint', 'prettier'],
+  \   'typescript': ['tslint', 'prettier'],
   \   'rust': ['rustfmt'],
   \   'python': ['black', 'isort'],
   \   'cpp': ['clang-format'],
@@ -913,3 +921,16 @@ let g:nvimgdb_config_override = {
 
 " Highlighting of user defined functions can be disabled by
 let g:cpp_no_function_highlight = 1
+
+" Autoformatter
+" let g:autoformat_autoindent = 0
+" let g:autoformat_retab = 0
+" let g:autoformat_remove_trailing_spaces = 0
+" to enable or disabel these option for filetypes
+" autocmd FileType vim,tex let b:autoformat_autoindent=0
+" having trouble w/ plugin? debugging
+" let g:autoformat_verbosemode=1
+" OR:
+" let verbose=1
+
+noremap <F3> :Autoformat<CR>
